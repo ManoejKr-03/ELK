@@ -1,0 +1,25 @@
+2024-10-29T12:00:01.123Z INFO: Accessed endpoint: /api/data
+2024-10-29T12:00:01.124Z INFO: Request method: GET
+2024-10-29T12:00:01.125Z INFO: Request headers: {
+  "accept": "application/json",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+}
+2024-10-29T12:00:01.126Z INFO: Response status: 200
+2024-10-29T12:00:01.127Z INFO: Response body: [
+  {
+    "id": 1,
+    "name": "Item 1",
+    "description": "This is the first item"
+  },
+  {
+    "id": 2,
+    "name": "Item 2",
+    "description": "This is the second item"
+  },
+  {
+    "id": 3,
+    "name": "Item 3",
+    "description": "This is the third item"
+  }
+]
+2024-10-29T12:00:01.128Z INFO: Request processing time: 15ms
